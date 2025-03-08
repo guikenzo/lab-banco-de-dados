@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="relacional-logico-v2" id="D83A6D1A-068E-8A9C-F7A6-AFF5C09B276A" version="3.5">
+<createdBy>Guilherme</createdBy>
+<createdTime>2025-03-08 00:22:52 UTC</createdTime>
+<ownerDesignName>relacional-logico-v2</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>D83A6D1A-068E-8A9C-F7A6-AFF5C09B276A</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="FDD2157F-68EE-D84B-1916-86A5981BEB4F">
+<designStoragePath>C:\Users\Guilherme\OneDrive - Fatec Centro Paula Souza\Documents\rascunho</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
